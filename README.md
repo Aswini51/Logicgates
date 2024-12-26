@@ -1,6 +1,6 @@
-### NAME: Aswini.G
+# NAME: Aswini.G
 
-### REG NO: 24000247
+# REG NO: 24000247
 
 # EXPERIMENT 1: Study of logicgates
 
